@@ -12,7 +12,7 @@ This project is a practice project in which object-oriented programming is to be
 The project includes a tasklist which can be influenced by various methods.
 
 ### 2. Installation
-Lorem ipsum di asmet
+Clone Git-Repo: PBonicho/TaskManagerApp
 
 ### 3. Run program
 To Run the program follow the path: Taskmanger-Aufgabe/src/main/java/Programm.java and press the Play-Button.
